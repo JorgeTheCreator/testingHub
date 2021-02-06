@@ -1,1 +1,5 @@
 1) happy day:)
+
+yarn.lock
+//
+yarn.lock file will ensure that they get precisely the same dependencies as you have.
